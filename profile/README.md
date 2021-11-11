@@ -14,9 +14,11 @@
 * [Static Website Gatsby GitBook](https://github.com/eLearningHub/Static-Website-Gatsby-GitBook) ([demo](https://elearninghub.github.io/Static-Website-Gatsby-GitBook/))
 * [Static Website Jekyll JTD](https://elearninghub.github.io/Static-Website-Jekyll-JTD/) ([Just the Docs](https://elearninghub.github.io/Static-Website-Jekyll-JTD/))
 
-## Scientific Papers
+## Documents
 
 * [Academic journal with pandoc](https://github.com/eLearningHub/academic-journal-pandoc)
+* [Resume with LaTeX (Orbit CV)](https://github.com/eLearningHub/resume-latex-orbit-cv)
+* [Text2Talk](https://github.com/eLearningHub/text2talk)
 
 ## Autonomous Driving
 
