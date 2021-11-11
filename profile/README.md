@@ -20,6 +20,11 @@
 * [Resume with LaTeX (Orbit CV)](https://github.com/eLearningHub/resume-latex-orbit-cv)
 * [Text2Talk](https://github.com/eLearningHub/text2talk)
 
+## Slides
+
+* [reveal.js with pandoc](https://github.com/eLearningHub/presentation-reveal-pandoc)
+* [reveal.js with Jekyll](https://github.com/eLearningHub/presentation-reveal-jekyll)
+
 ## Autonomous Driving
 
 * [AutowareAI CARLA](https://github.com/eLearningHub/AutowareAI-CARLA)
