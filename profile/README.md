@@ -1,4 +1,4 @@
-# eLearningHub
+# eLearningHub Projects
 
 ## Personal Websites
 
