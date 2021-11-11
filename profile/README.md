@@ -1,4 +1,4 @@
-# Improve your coding skills with eLearning Hub
+# eLearning Hub: Coding for the rest of us
 
 ## Personal Websites
 
