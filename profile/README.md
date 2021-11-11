@@ -12,3 +12,7 @@
 * [Static Website Gatsby GitBook](https://github.com/eLearningHub/Static-Website-Gatsby-GitBook) ([demo](https://elearninghub.github.io/Static-Website-Gatsby-GitBook/))
 * [Static Website Jekyll JTD](https://elearninghub.github.io/Static-Website-Jekyll-JTD/) ([Just the Docs](https://elearninghub.github.io/Static-Website-Jekyll-JTD/))
 * [Static Website Gatsby Starter Docz](https://github.com/eLearningHub/Static-Website-Gatsby-Starter-Docz) ([demo](https://elated-heisenberg-930361.netlify.app/))
+
+## Autonomous Driving
+
+* [AutowareAI CARLA](https://github.com/eLearningHub/AutowareAI-CARLA)
