@@ -1,4 +1,4 @@
-# eLearningHub Projects
+# Improve your coding skills with eLearning Hub
 
 ## Personal Websites
 
