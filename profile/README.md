@@ -16,7 +16,7 @@
 
 ## Documents
 
-* [Academic journal with pandoc](https://github.com/eLearningHub/academic-journal-pandoc)
+* [Writing research papers](https://github.com/eLearningHub/academic-journal-pandoc)
 * [Resume with LaTeX (Orbit CV)](https://github.com/eLearningHub/resume-latex-orbit-cv)
 * [Text2Talk](https://github.com/eLearningHub/text2talk)
 
