@@ -35,3 +35,4 @@
 # Resources
 
 * [Generate SSH Keys Online](https://8gwifi.org/sshfunctions.jsp)
+* [GitHub Action for GitHub Pages](https://github.com/peaceiris/actions-gh-pages)
