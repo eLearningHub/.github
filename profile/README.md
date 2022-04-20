@@ -1,4 +1,4 @@
-# eLearning Hub: Coding for the rest of us
+# eLearning Hub: Coding for the Rest of Us
 
 ## Personal Websites
 
