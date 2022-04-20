@@ -13,7 +13,7 @@
 * [Static Website Hugo Docsy](https://github.com/eLearningHub/Static-Website-Hugo-Docsy) ([demo](https://elearninghub.github.io/Static-Website-Hugo-Docsy/))
 * [Static Website Gatsby GitBook](https://github.com/eLearningHub/Static-Website-Gatsby-GitBook) ([demo](https://elearninghub.github.io/Static-Website-Gatsby-GitBook/))
 * [Static Website Jekyll JTD](https://elearninghub.github.io/Static-Website-Jekyll-JTD/) ([Just the Docs](https://elearninghub.github.io/Static-Website-Jekyll-JTD/))
-* [fastpages](https://github.com/eLearningHub/fastpages)
+* [fastpages](https://github.com/eLearningHub/fastpages) ([demo](https://elearninghub.github.io/fastpages/))
 
 ## Documents
 
