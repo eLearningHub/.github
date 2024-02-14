@@ -27,6 +27,7 @@
 
 ## Slides
 
+* [quarto-beamer-starter](https://github.com/eLearningHub/quarto-beamer-starter)
 * [reveal.js with pandoc](https://github.com/eLearningHub/presentation-reveal-pandoc)
 * [reveal.js with Jekyll](https://github.com/eLearningHub/presentation-reveal-jekyll)
 
